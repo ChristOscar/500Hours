@@ -1,7 +1,10 @@
 # hours
 
-A new Flutter project.
+A simple flutter project for the outdoors. This is called 500 Hours, This app is just a tracking app that collects peoples hours outside and displays them to others
+in your group.
 
+Hope you enjoy the app as I enjoyed making it.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
