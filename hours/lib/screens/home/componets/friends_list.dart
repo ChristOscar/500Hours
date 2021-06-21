@@ -15,7 +15,7 @@ class Friendslist extends StatelessWidget {
           RecomendFriendCard(
             image: "assets/images/image_1.png",
             title: "Nathan",
-            country: "United States",
+            country: "United Statess",
             press: () {},
           ),
           RecomendFriendCard(
