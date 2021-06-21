@@ -7,7 +7,7 @@ class Homescreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("OUTDORSYtips"),
+        title: Text("OUTDORSY"),
       ),
       body: Center(),
       floatingActionButton: FloatingActionButton(onPressed: () {}),
