@@ -1,4 +1,4 @@
-# hours
+# 500 Hours 
 
 A simple flutter project for the outdoors. This is called 500 Hours, This app is just a tracking app that collects peoples hours outside and displays them to others
 in your group.
